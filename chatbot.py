@@ -105,7 +105,7 @@ print("Training data created")
 from keras.models import Sequential
 
 #Keras is a powerful and easy-to-use free open source Python library for developing and evaluating deep learning models.
-#It wraps the efficient numerical computation libraries Theano and TensorFlow and allows you to define and train neural network models in just a few lines of code.
+#It wraps the efficient numerical computation libraries Theano and TensorFlow and allows us to define and train neural network models in just a few lines of code.
   #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------#
 
 #The sequential API allows you to create models layer-by-layer for most problems.
