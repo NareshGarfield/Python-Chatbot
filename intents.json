@@ -40,7 +40,7 @@
         },
         {"tag": "options",
          "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered","help me"],
-         "responses": ["I can tell you what are the available offer and information for JIO"],
+         "responses": ["I can tell you what are the available offer and information"],
          "context": [""]
         },
         {"tag": "good_morning",
