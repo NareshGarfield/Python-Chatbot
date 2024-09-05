@@ -28,7 +28,7 @@
         },
 
 	{"tag": "their_question",
-         "patterns": ["can i ask you a question","may i ask a question","can i ask question"],
+         "patterns": ["can i ask you a question","may i ask you a question","can i ask question"],
          "responses": ["go ahead ask me"],
          "context": [""]
         },
